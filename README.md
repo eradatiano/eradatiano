@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my projects to learn more and implement my ideas with my team <br>👯 I’m looking to collaborate on I am looking for cooperation in any project that has an interesting idea and a good possibility of learning<br>🌱 I’m currently learning Caching and Web security <br>💬 about me: I am the backend developer. I started with Python and am currently working as a junior node.js developer. I have worked in two companies so far. I learned the basics of web and javascript in Aplens company, and then I participated in building warehouse APIs in a company with nest.js and mongoDB tools!
+🔭 I’m currently working on my projects to learn more and implement my ideas with my team <br>👯 I’m looking to collaborate on I am looking for cooperation in any project that has an interesting idea and a good possibility of learning<br>🌱 I’m currently learning Caching and Web security <br>💬 about me: I'm a backend developer. I started with Python and I'm currently working as a junior node.js developer. I have worked in two companies so far. I learned the basics of web and javascript in Aplens company, and then I participated in building warehouse APIs in a company with nest.js and mongoDB tools!
 
 
 
