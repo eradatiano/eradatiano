@@ -1,4 +1,6 @@
 Hi 👋 My name is Ali Ghaedi
+===========================
+
 # 💫 About Me:
 🔭 I’m currently working on my projects to learn more and implement my ideas with my team <br>👯 I’m looking to collaborate on I am looking for cooperation in any project that has an interesting idea and a good possibility of learning<br>🌱 I’m currently learning Caching and Web security <br>💬 about me: I am the backend developer. I started with Python and am currently working as a junior node.js developer. I have worked in two companies so far. I learned the basics of web and javascript in Aplens company, and then I participated in building warehouse APIs in a company with nest.js and mongoDB tools!
 
@@ -11,8 +13,7 @@ Hi 👋 My name is Ali Ghaedi
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-Hi 👋 My name is Ali Ghaedi
-===========================
+
 
 <a href="https://www.github.com/eradatiano" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eradatiano?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
@@ -25,6 +26,7 @@ src="https://img.shields.io/github/followers/eradatiano?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/eradatiano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ali-ghaedii" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
